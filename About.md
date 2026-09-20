@@ -1,3 +1,6 @@
+<img width="1400" height="350" alt="banner linkedin" src="https://github.com/user-attachments/assets/03b968c2-3267-40c2-af74-dff251e18b17" />
+
+
 Olá! Seja bem-vindo(a)! 
  
 Atuo na área de Dados e Business Intelligence, transformando dados em análises, indicadores e informações que apoiam decisões comerciais e estratégicas.
